@@ -10,7 +10,7 @@
 #   - DALYs attributable to diet high in red meat
 #       Global Burden of Disease (GBD) study, Institute for Health Metrics and Evaluation (IHME)
 #       Extracted via GBD Compare (Risk factor: "Diet high in red meat",
-#       Measure: DALYs, Metric: Number or Rate, Location: United Kingdom,
+#       Measure: DALYs, Metric:  Rate, Location: United Kingdom,
 #       Years: 1990–2022, all ages, both sexes).
 #       https://vizhub.healthdata.org/gbd-compare
 #
