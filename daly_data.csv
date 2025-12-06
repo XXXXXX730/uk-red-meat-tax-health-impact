@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Risk factor,Measure,Value,Lower bound,Upper bound
+All Population,United Kingdom,1990,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",528.6200964,8.17E-13,971.4668867
+All Population,United Kingdom,1991,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",512.1890801,4.40E-13,942.5220223
+All Population,United Kingdom,1992,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",493.8863365,4.55E-13,910.1238204
+All Population,United Kingdom,1993,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",482.1937074,6.53E-13,889.6185098
+All Population,United Kingdom,1994,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",450.1363397,6.00E-13,830.2421769
+All Population,United Kingdom,1995,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",436.6858356,-7.42E-15,801.9639474
+All Population,United Kingdom,1996,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",417.6923863,7.36E-13,768.2692866
+All Population,United Kingdom,1997,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",399.3971618,-8.30E-13,737.1239942
+All Population,United Kingdom,1998,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",388.0666846,1.28E-12,715.3147558
+All Population,United Kingdom,1999,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",375.0882069,8.60E-13,693.0719612
+All Population,United Kingdom,2000,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",355.2079387,-2.56E-13,656.4203117
+All Population,United Kingdom,2001,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",343.4226715,7.40E-13,634.2686218
+All Population,United Kingdom,2002,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",334.1674749,-1.00E-12,613.9080288
+All Population,United Kingdom,2003,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",325.3531548,3.81E-13,592.0676548
+All Population,United Kingdom,2004,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",311.0516219,3.66E-13,567.8614749
+All Population,United Kingdom,2005,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",304.9436755,-3.55E-13,556.1382238
+All Population,United Kingdom,2006,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",297.0813847,8.10E-13,546.8199445
+All Population,United Kingdom,2007,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",292.4127293,-3.41E-13,540.1868491
+All Population,United Kingdom,2008,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",288.4922237,2.93E-13,530.2904427
+All Population,United Kingdom,2009,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",278.0237538,4.30E-13,511.7594525
+All Population,United Kingdom,2010,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",273.6165982,8.40E-13,502.602199
+All Population,United Kingdom,2011,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",266.1142242,-1.16E-12,491.9004895
+All Population,United Kingdom,2012,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",266.9708314,-5.58E-13,495.6453908
+All Population,United Kingdom,2013,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",265.3937806,4.57E-13,489.7555196
+All Population,United Kingdom,2014,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",260.5221375,1.54E-12,477.794152
+All Population,United Kingdom,2015,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",266.4391589,2.14E-14,485.457912
+All Population,United Kingdom,2016,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",267.744352,4.84E-13,480.8095505
+All Population,United Kingdom,2017,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",272.0150666,4.66E-13,486.3942996
+All Population,United Kingdom,2018,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",277.3643365,6.36E-13,498.0845104
+All Population,United Kingdom,2019,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",278.8244992,1.33E-12,505.3603906
+All Population,United Kingdom,2020,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",288.5329137,6.48E-13,521.8656337
+All Population,United Kingdom,2021,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",288.6591599,-1.12E-13,518.3282216
+All Population,United Kingdom,2022,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",297.4313907,3.41E-13,539.1590601
+All Population,United Kingdom,2023,All ages,Both,All causes,Diet high in red meat,"DALYs per 100,000",317.7308025,5.07E-13,584.7732987
+,,,,,,,,,,
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 12/3/2025). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions",,,,,,,,,,
