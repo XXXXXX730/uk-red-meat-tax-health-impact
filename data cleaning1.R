@@ -46,7 +46,7 @@ skimr::skim(meat)
 
 ## 2. Add population data and merge ----
 
-# UK mid-year population estimates (1990–2022)
+# UK mid-year population estimates (1990–2022) From the open world bank population estimates
 population_uk <- tibble(
   Year = 1990:2022,
   population = c(
@@ -115,6 +115,7 @@ merged <- merged %>%
     # Potential Impact Fraction (single-exposure approximation)
     PIF = (RR0 - RR1) / RR0
   )
+
 
 ## 5. DALYs: baseline, post-tax, and averted ----
 
@@ -209,3 +210,6 @@ combined +
   )
 
 Sys.info()
+
+
+## End analysis---------------------
