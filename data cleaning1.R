@@ -10,7 +10,7 @@
 #   - DALYs attributable to diet high in red meat
 #       Global Burden of Disease (GBD) study, Institute for Health Metrics and Evaluation (IHME)
 #       Extracted via GBD Compare (Risk factor: "Diet high in red meat",
-#       Measure: DALYs, Metric:  Rate, Location: United Kingdom,
+#       Measure: DALYs, Metric: Rate, Location: United Kingdom,
 #       Years: 1990–2022, all ages, both sexes).
 #       https://vizhub.healthdata.org/gbd-compare
 #
@@ -29,9 +29,6 @@
 ############################################################
 
 ## 0. Load packages ----
-
-# (In a manuscript/supplement, do NOT include install.packages();
-#  just state package versions in the text or a sessionInfo() block.)
 
 library(tidyverse)   # Wickham et al., 2019
 library(skimr)       # Waring et al., 2022
@@ -74,7 +71,7 @@ head(merged)
 ## Assumed columns:
 ## - Year
 ## - Value   : DALYs per 100,000 attributable to diet high in red meat
-## - total.red.meat : total red meat supply (kg/person/year)
+## - total.red.meat : total red meat supply (kg/person/year) : This was computed in Excel by summing sheep/goat/beef/buffalo/pig meat
 
 ## 3. Convert red meat intake and apply tax scenario ----
 
@@ -211,3 +208,4 @@ combined +
     )
   )
 
+Sys.info()
